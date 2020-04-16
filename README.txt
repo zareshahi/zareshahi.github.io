@@ -1,4 +1,4 @@
-== This is my personal html webpage
+This is my personal html webpage
 
 
 Designed by html5up.net | @ajlkn
